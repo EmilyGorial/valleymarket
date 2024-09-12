@@ -1,6 +1,7 @@
 **Initial Plan**
 
 - Will begin by creating and desiging a basic website with the mentioned webpages and will implement localStorage
+- Setup CI/CD pipeline and ADRs
 - Once the initial website is created, will need to gather more information from the potential 3rd party delivering service
 - Then we will need to find a way to have the inventory show up on the website. Potentially write code that can read inventory orders and can update the website accordingly
 - Then we will implement the delivering service into the website
